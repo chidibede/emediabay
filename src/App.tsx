@@ -1,6 +1,5 @@
 "use client";
-import { useState } from "react";
-import { Fragment } from "react";
+import { useState, Fragment } from "react";
 import {
   Dialog,
   DialogBackdrop,
